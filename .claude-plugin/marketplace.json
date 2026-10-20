@@ -1,0 +1,17 @@
+{
+  "name": "claude-prompt-library",
+  "owner": {
+    "name": "Francisco Mastromarino"
+  },
+  "metadata": {
+    "version": "1.0.0",
+    "description": "Personal prompt library — save, search, load and manage reusable prompts across projects"
+  },
+  "plugins": [
+    {
+      "name": "claude-prompt-library",
+      "source": "./",
+      "description": "Personal prompt library — save, search, load and manage reusable prompts across projects"
+    }
+  ]
+}
